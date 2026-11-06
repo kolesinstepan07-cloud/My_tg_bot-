@@ -4,7 +4,7 @@ import logging
 from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, MessageHandler, filters
 
-TOKEN = 9286725831:AAEAwI2CjrqjAsw-lfwdeZmcOAdOz3dNhTQ
+TOKEN ="9286725831:AAEAwI2CjrqjAsw-lfwdeZmcOAdOz3dNhTQ"
 
 games = {}
 
